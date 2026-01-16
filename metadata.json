@@ -1,0 +1,5 @@
+{
+  "name": "ClipForge AI",
+  "description": "一个专业的视频分析工具，允许用户捕获关键帧，使用 Gemini Vision 分析它们生成提示词，并使用 Gemini 图像生成重现场景。",
+  "requestFramePermissions": []
+}
