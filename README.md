@@ -41,12 +41,11 @@
 
 视频演示
 
-<video width="100%" controls>
-  <source src="images/xw_20260116141832.mp4" type="video/mp4">
-  您的浏览器不支持视频播放，请<a href="images/xw_20260116141832.mp4">下载查看</a>。
-</video>
 
 
+[![ClipForge AI 演示视频](images/11.png)](images/xw_20260116141832.mp4)
+
+[📹 ClipForge AI 演示视频下载](images/xw_20260116141832.mp4)
 
 ## 🛠️ 技术栈
 
